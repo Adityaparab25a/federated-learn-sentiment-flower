@@ -125,7 +125,7 @@ Generates:
 
 ---
 
-**Author:** Aditya Pramod Parab  
+**Author:** Aditya Parab  
 **Project:** Federated Sentiment Analysis using Flower + DistilBERT  
 **Clients:** 3  
 **Dataset:** `twitter_training.csv`
